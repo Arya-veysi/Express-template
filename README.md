@@ -38,7 +38,7 @@ A clean and scalable Express.js boilerplate for building RESTful APIs with Node.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/Arya-veysi/Express-template.git
    cd Express-template
    ```
 
