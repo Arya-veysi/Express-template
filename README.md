@@ -139,4 +139,4 @@ Contributions are welcome! Please fork the repository and open a pull request.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE) – free and open-source.
